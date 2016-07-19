@@ -18,6 +18,7 @@ int main()
 		{
 			if (bFirst)
 			{
+				printf("小数点可能的点错位数以达到最大!\n");
 				break;
 			}
 			if (!bFound)
